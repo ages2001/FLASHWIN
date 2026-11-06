@@ -9,9 +9,9 @@ player imports and what old Windows provides.
 - **FP10** — Flash Player 10 (10.3.183.90), for pre-SSE2 machines.
 
 Supported: **Windows NT 3.1 / 3.5x / 4.0 / 2000 / XP / XP x64** and
-**Windows 95 / 98 / ME** (ME also in Safe Mode).
+**Windows 95 / 98 / ME**.
 
-> This is distinct from the author's from-scratch SWF player (SWFNT). FLASHWIN
+> This is distinct from the author's from-scratch SWF player ([RetroFlashPlayer](https://github.com/ages2001/RetroFlashPlayer)). FLASHWIN
 > ports the genuine Adobe binaries.
 
 ## Package layout

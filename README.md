@@ -43,7 +43,7 @@ not required.
 
 FP32 requires SSE2; FP10 uses SSE2 when available and falls back otherwise.
 On NT 3.1/3.5x/4.0 and Windows 95/98/ME the OS does not preserve XMM across
-threads, so an **SSE2 enabler must be installed separately — [WINSIMD](../WINSIMD)
+threads, so an **SSE2 enabler must be installed separately — [WINSIMD](https://github.com/ages2001/WINSIMD)
 recommended**. Windows 2000/XP (incl. XP x64) preserve XMM themselves and need
 no driver. FLASHWIN neither bundles nor installs WINSIMD.
 

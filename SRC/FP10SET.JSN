@@ -1,0 +1,102 @@
+[
+ {
+  "name": "FP10.EXE",
+  "bytes": 6946816,
+  "sha256": "69d717379905e7976b7782f48ecb7afc5a95bf53b5be3fa3886b04fce3b37ae1"
+ },
+ {
+  "name": "FP10CPU.DLL",
+  "bytes": 20480,
+  "sha256": "22765f18bcbecd66a33b28afccdaee37640480fabbfecfa30c9a473a0b1bcfb5"
+ },
+ {
+  "name": "FP9X.DLL",
+  "bytes": 53248,
+  "sha256": "04ae7695617a0eb09eed73752120c78adeb7d7d1be36e4ce6b0decf2dde7eaf8"
+ },
+ {
+  "name": "FPA.DLL",
+  "bytes": 20480,
+  "sha256": "410dc697af82dd1f4e157807df4c7f7130b1cb7256919a81787fe59b2da80aa2"
+ },
+ {
+  "name": "FPC.DLL",
+  "bytes": 20480,
+  "sha256": "76db3bb7501a7d4fa9b1670f0b258d1818b4f5e2a954489d88c988649f6ae4b9"
+ },
+ {
+  "name": "FPCD.DLL",
+  "bytes": 20480,
+  "sha256": "987efb721ef42f5032beb1cdfca9eaae0b6b254302925c8d3160ca151cba30bf"
+ },
+ {
+  "name": "FPCLR.DLL",
+  "bytes": 20480,
+  "sha256": "193252561714e475bc29f1e10853357b42e29a403831cd90528c5a6cf14a7252"
+ },
+ {
+  "name": "FPD.DLL",
+  "bytes": 20480,
+  "sha256": "adabe891c5b54e89ac0923e81d937f25a36467f0d0e07deaa3f7438ebe02716b"
+ },
+ {
+  "name": "FPG.DLL",
+  "bytes": 33280,
+  "sha256": "a83e19d1235e08aaf9507bc2528dd64f225911e8ec387564a9098b2b7332bba2"
+ },
+ {
+  "name": "FPK.DLL",
+  "bytes": 67584,
+  "sha256": "f298392838c7346d4fb8977c9dc9244e6bd87f58e2ee53ed7269b47c5a4f0189"
+ },
+ {
+  "name": "FPM.DLL",
+  "bytes": 23552,
+  "sha256": "d4a4093c31223e9d2a62ebf0c9f2f343d22ad975cbae7a548b736e56ee5edae9"
+ },
+ {
+  "name": "FPMK.DLL",
+  "bytes": 26112,
+  "sha256": "719f0ddc83cecc48b8bf4371cfa404a64f0ffb099535487ae513d09ce820e39d"
+ },
+ {
+  "name": "FPMM.DLL",
+  "bytes": 131072,
+  "sha256": "d76fd887832875e528d2e2625b2d11d3a954a2881db3b9bd9ee707b723fdb642"
+ },
+ {
+  "name": "FPNTM.DLL",
+  "bytes": 23040,
+  "sha256": "0e7f03afaddfd6c673d81a01ea7f2c782e302161d40452774491358c42dac381"
+ },
+ {
+  "name": "FPO.DLL",
+  "bytes": 20480,
+  "sha256": "feac3eec0a0dbc328dd889b15e5409e8c0578d9fa864d4b6e457bd2331a5bac0"
+ },
+ {
+  "name": "FPR.DLL",
+  "bytes": 20480,
+  "sha256": "6b73a84f09ee7064e2d0c29aa202e4f59b8814bfb03865afc05ede787d0114d0"
+ },
+ {
+  "name": "FPRG.DLL",
+  "bytes": 17920,
+  "sha256": "70f8aed93f34416dc8765ca5efb45535cd9a9d8bad507c131b3a966b2f9110d2"
+ },
+ {
+  "name": "FPS.DLL",
+  "bytes": 21504,
+  "sha256": "36abcb9209c1353db3c49e7dfaf405f97e8281fc36b13ceb86f50bd1141f15a0"
+ },
+ {
+  "name": "FPU.DLL",
+  "bytes": 41984,
+  "sha256": "3ae2d03364eca2b7aa8ff9fc0b568f55446c1ecf6f6f9ae2dc6786cf456d7238"
+ },
+ {
+  "name": "FPW.DLL",
+  "bytes": 23040,
+  "sha256": "7e14740aa6ce68e50d1e0ab41591f54a90525db3687f7fb3269c0a05780abdb5"
+ }
+]

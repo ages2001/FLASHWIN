@@ -1,0 +1,105 @@
+{
+  "FP10CPU": {
+    "implemented": 3,
+    "forwarded": 0,
+    "abort_stubs": [],
+    "source": "shipped"
+  },
+  "FPA": {
+    "implemented": 1,
+    "forwarded": 0,
+    "abort_stubs": [],
+    "source": "shipped"
+  },
+  "FPC": {
+    "implemented": 7,
+    "forwarded": 0,
+    "abort_stubs": [],
+    "source": "gap-closed"
+  },
+  "FPCLR": {
+    "implemented": 5,
+    "forwarded": 0,
+    "abort_stubs": [],
+    "source": "gap-closed"
+  },
+  "FPD": {
+    "implemented": 1,
+    "forwarded": 0,
+    "abort_stubs": [],
+    "source": "gap-closed"
+  },
+  "FPG": {
+    "implemented": 21,
+    "forwarded": 53,
+    "abort_stubs": [],
+    "source": "gap-closed"
+  },
+  "FPK": {
+    "implemented": 39,
+    "forwarded": 150,
+    "abort_stubs": [],
+    "source": "gap-closed"
+  },
+  "FPM": {
+    "implemented": 9,
+    "forwarded": 32,
+    "abort_stubs": [],
+    "source": "shipped"
+  },
+  "FPMK": {
+    "implemented": 1,
+    "forwarded": 69,
+    "abort_stubs": [],
+    "source": "shipped"
+  },
+  "FPMM": {
+    "implemented": 194,
+    "forwarded": 0,
+    "abort_stubs": [],
+    "source": "shipped"
+  },
+  "FPNTM": {
+    "implemented": 4,
+    "forwarded": 32,
+    "abort_stubs": [],
+    "source": "shipped"
+  },
+  "FPO": {
+    "implemented": 14,
+    "forwarded": 0,
+    "abort_stubs": [],
+    "source": "gap-closed"
+  },
+  "FPR": {
+    "implemented": 1,
+    "forwarded": 0,
+    "abort_stubs": [],
+    "source": "gap-closed"
+  },
+  "FPRG": {
+    "implemented": 2,
+    "forwarded": 10,
+    "abort_stubs": [],
+    "source": "shipped"
+  },
+  "FPS": {
+    "implemented": 7,
+    "forwarded": 3,
+    "abort_stubs": [],
+    "source": "gap-closed"
+  },
+  "FPU": {
+    "implemented": 24,
+    "forwarded": 123,
+    "abort_stubs": [],
+    "source": "gap-closed"
+  },
+  "FPW": {
+    "implemented": 7,
+    "forwarded": 28,
+    "abort_stubs": [],
+    "source": "gap-closed"
+  },
+  "_TOTAL_abort_stubs": 0
+}
